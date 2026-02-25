@@ -5,7 +5,7 @@ import { REGISTER_SUCCESS, REGISTER_FAIL,USER_LOADED,AUTH_ERROR,LOGIN_FAIL,LOGIN
 import { setAlert } from "./alert";
  import setAuthToken from '../utils/SetAuthToken';
 
-import { set } from 'mongoose';
+
 // Load User
 export const loaduser=()=>async dispatch=>{
      if(localStorage.token){
