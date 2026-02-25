@@ -19,7 +19,6 @@
     "assert": "^2.1.0",
     "axios": "^1.13.5",
     "bcryptjs": "^3.0.2",
-    "config": "^4.1.1",
     "crypto-browserify": "^3.12.1",
     "express": "^4.22.1",
     "express-validator": "^7.2.1",
